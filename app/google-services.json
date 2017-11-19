@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "399143312974",
+    "firebase_url": "https://ua32-a7286.firebaseio.com",
+    "project_id": "ua32-a7286",
+    "storage_bucket": "ua32-a7286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399143312974:android:03fd9a9b586e4484",
+        "android_client_info": {
+          "package_name": "com.allisonmcentire.ualocal32"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399143312974-5a7uqedcg351gn2mbi0f35cpfskck49s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allisonmcentire.ualocal32",
+            "certificate_hash": "3f05cb4233590c60d52499edf5c5547fb48b7adc"
+          }
+        },
+        {
+          "client_id": "399143312974-97le3hub733rbjkh8imm55hhppo2gke1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0TPwWyXCPH7ITqi8vB7XSAO_sAtYEohw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399143312974-1556e1ho3tvnmhnc6i4aiciueel06hlf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "millionacrenest.pushTest"
+              }
+            },
+            {
+              "client_id": "399143312974-97le3hub733rbjkh8imm55hhppo2gke1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399143312974:android:2bcc625f433cc31a",
+        "android_client_info": {
+          "package_name": "com.millionacrenest.laborpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399143312974-0nfr6t8o8u8lr3jsk9dmsg7dnsjjqt2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.millionacrenest.laborpost",
+            "certificate_hash": "3f05cb4233590c60d52499edf5c5547fb48b7adc"
+          }
+        },
+        {
+          "client_id": "399143312974-97le3hub733rbjkh8imm55hhppo2gke1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0TPwWyXCPH7ITqi8vB7XSAO_sAtYEohw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399143312974-1556e1ho3tvnmhnc6i4aiciueel06hlf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "millionacrenest.pushTest"
+              }
+            },
+            {
+              "client_id": "399143312974-97le3hub733rbjkh8imm55hhppo2gke1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
