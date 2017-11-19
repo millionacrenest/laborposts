@@ -33,7 +33,7 @@ import java.util.HashMap;
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
     // Where the map data lives in Firebase
-    public static final String MAP_PATH = "nodeLocations";
+    public static final String MAP_PATH = "nodeLocation";
 
     // A cache of map points displayed on the map
     private HashMap<String, Marker> markers = new HashMap<String, Marker>();
